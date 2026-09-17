@@ -7,7 +7,7 @@ test("F9C application should be online", () => {
 
     assert.equal(
         getStatus(),
-        "F9C CI/CD ONLINE"
+        "F9C CI/CD PIPELINE ONLINE"
     );
 
 });
