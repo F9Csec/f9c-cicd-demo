@@ -1,5 +1,5 @@
 export function getStatus() {
-    return "F9C CI/CD ONLINE";
+    return "F9C CI/CD PIPELINE ONLINE";
 }
 
 if (typeof document !== "undefined") {
